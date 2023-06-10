@@ -1,6 +1,6 @@
 <img alt="programmer" src="https://visme.co/blog/wp-content/uploads/2020/06/animated-interactive-infographics-header-wide.gif"/>
 <h1 align="center">Hi 👋, I'm Seenu Vasan</h1>
-<h3 align="center">A passionate programmer</h3>
+
 
 <img alt="coding" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" width="400"/>
 
